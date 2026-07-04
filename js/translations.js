@@ -379,7 +379,7 @@ const toursData =[
     price: 70000,
     region: "Vayots Dzor",
     duration: 1,
-    image: "/img/img_khor-virap-jermuk_1.webp", 
+    image: "./img/img_khor-virap-jermuk_1.webp", 
     title: {
       hy: "Խոր Վիրապ, Նորավանք և Ջերմուկ",
       ru: "Хор Вирап, Нораванк и Курорт Джермук",
@@ -398,7 +398,7 @@ const toursData =[
           ru: "Знаменитый монастырь у самого подножия горы Арарат, колыбель христианства в Армении.",
           en: "The historic monastery right at the foot of Mount Ararat, offering the most iconic panoramic views."
         },
-        photo: "/img/img_khor-virap-jermuk_1.jpg"
+        photo: "./img/img_khor-virap-jermuk_1.jpg"
       },
       {
         title: { hy: "Նորավանք", ru: "Монастырский комплекс Нораванк", en: "Noravank Monastery Complex" },
@@ -407,7 +407,7 @@ const toursData =[
           ru: "Великолепный монастырский комплекс XIII века, спрятанный среди ущелья величественных красных скал.",
           en: "A magnificent 13th-century monastery complex nested inside a dramatic gorge of sheer red cliffs."
         },
-        photo: "/img/img_khor-virap-jermuk_2.jpg"
+        photo: "./img/img_khor-virap-jermuk_2.jpg"
       },
       {
         title: { hy: "Արենի-1 Քարանձավ", ru: "Пещера Арени-1 (Пещера птиц)", en: "Areni-1 Cave (Birds' Cave)" },
@@ -416,7 +416,7 @@ const toursData =[
           ru: "Уникальный археологический памятник, где были найдены древнейшая в мире кожаная обувь и винодельня.",
           en: "An archaeological wonder where the world's oldest leather shoe and winery were discovered."
         },
-        photo: "/img/img_khor-virap-jermuk_3.jpg"
+        photo: "./img/img_khor-virap-jermuk_3.jpg"
       },
       {
         title: { hy: "Արենիի Գինու Գործարան", ru: "Винный завод Арени", en: "Areni Wine Factory" },
@@ -425,7 +425,7 @@ const toursData =[
           ru: "Эксклюзивная дегустация аутентичных армянских вин из эндемичного сорта винограда Арени.",
           en: "Exclusive wine tasting of traditional Armenian wines crafted from the historic local Areni grape."
         },
-        photo: "/img/img_khor-virap-jermuk_4.jpg"
+        photo: "./img/img_khor-virap-jermuk_4.jpg"
       },
       {
         title: { hy: "Ջերմուկ Առողջարան", ru: "Курортный город Джермук", en: "Jermuk Resort City" },
@@ -434,7 +434,7 @@ const toursData =[
           ru: "Знаменитый высокогорный курорт, известный своими питьевыми галереями, водопадом «Волосы русалки» и чистейшим воздухом.",
           en: "A famous alpine spa-resort town, renowned for its healing mineral water galleries and picturesque waterfalls."
         },
-        photo: "/img/img_khor-virap-jermuk_5.jpg"
+        photo: "./img/img_khor-virap-jermuk_5.jpg"
       }
     ]
   },
@@ -443,7 +443,7 @@ const toursData =[
     price: 25000,
     region: "Armavir",
     duration: 1,
-    image: "/img/img_echmiadzin-holy-tour_1.jpg",
+    image: "./img/img_echmiadzin-holy-tour_1.jpg",
     title: {
       hy: "Սրբազան Էջմիածին և Զվարթնոց",
       ru: "Священный Эчмиадзин и Звартноц",
@@ -462,7 +462,7 @@ const toursData =[
           ru: "Уникальный памятник раннесредневековой архитектуры VII века, величественный Храм Бдящих Сил.",
           en: "A unique monument of 7th-century early medieval architecture, the majestic Cathedral of Vigilant Forces."
         },
-        photo: "/img/img_echmiadzin-holy-tour_1.jpg"
+        photo: "./img/img_echmiadzin-holy-tour_1.jpg"
       },
       {
         title: { hy: "Սուրբ Հռիփսիմե", ru: "Церковь Святой Рипсиме", en: "St. Hripsime Church" },
@@ -471,7 +471,7 @@ const toursData =[
           ru: "Один из совершенных образцов армянской крестово-купольной архитектуры VII века, выдержавший века.",
           en: "One of the most flawless examples of Armenian cross-domed architecture built in 618 AD, standing strong for centuries."
         },
-        photo: "/img/img_echmiadzin-holy-tour_2.jpg"
+        photo: "./img/img_echmiadzin-holy-tour_2.jpg"
       },
       {
         title: { hy: "Սուրբ Գայանե", ru: "Церковь Святой Гаяне", en: "St. Gayane Church" },
@@ -480,7 +480,7 @@ const toursData =[
           ru: "Древний и гармоничный храм VII века, возведенный над усыпальницей святой мученицы Гаяне.",
           en: "An ancient, harmonious 7th-century church erected over the burial site of the holy martyr St. Gayane."
         },
-        photo: "/img/img_echmiadzin-holy-tour_3.jpg"
+        photo: "./img/img_echmiadzin-holy-tour_3.jpg"
       },
       {
         title: { hy: "Մայր Տաճար Էջմիածին", ru: "Эчмиадзинский кафедральный собор", en: "Echmiadzin Cathedral" },
@@ -489,7 +489,7 @@ const toursData =[
           ru: "Первый в мире официальный государственный христианский собор, основанный в начале IV века.",
           en: "The first official state-built Christian cathedral in the world, founded in the early 4th century."
         },
-        photo: "/img/img_echmiadzin-holy-tour_4.jpg"
+        photo: "./img/img_echmiadzin-holy-tour_4.jpg"
       }
     ]
   },
@@ -498,7 +498,7 @@ const toursData =[
     price: 50000,
     region: "Vayots Dzor",
     duration: 1,
-    image: "/img/img_khor-virap-noravank-express_1.jpg",
+    image: "./img/img_khor-virap-noravank-express_1.jpg",
     title: {
       hy: "Հարավային Էքսպրես. Խոր Վիրապ և Նորավանք",
       ru: "Южный Экспресс: Хор Вирап и Нораванк",
@@ -517,7 +517,7 @@ const toursData =[
           ru: "Один из самых известных монастырей Армении у подножия Арарата, место заточения Григория Просветителя.",
           en: "One of Armenia's most iconic landmarks, holding a dramatic history right in front of Mt. Ararat."
         },
-        photo: "/img/img_khor-virap-noravank-express_1.jpg"
+        photo: "./img/img_khor-virap-noravank-express_1.jpg"
       },
       {
         title: { hy: "Արենիի Գինու Գործարան", ru: "Винный завод — Дегустация", en: "Areni Wine Factory & Tasting" },
@@ -526,7 +526,7 @@ const toursData =[
           ru: "Интерактивная экскурсия по заводу с дегустацией редких выдержанных сортов вин и фруктовых наливок.",
           en: "An interactive factory tour combined with rich tastings of aged endemic wines and fruit nectars."
         },
-        photo: "/img/img_khor-virap-jermuk_4.jpg"
+        photo: "./img/img_khor-virap-jermuk_4.jpg"
       },
       {
         title: { hy: "Արենի-1 Քարանձավ", ru: "Пещера птиц (Арени-1)", en: "Birds' Cave (Areni-1)" },
@@ -535,7 +535,7 @@ const toursData =[
           ru: "Уникальный археологический объект, скрывающий артефакты возрастом более 5 500 лет.",
           en: "A world-class archaeological complex hiding historical artifacts dating back over 5,500 years."
         },
-        photo: "/img/img_khor-virap-jermuk_3.jpg"
+        photo: "./img/img_khor-virap-jermuk_3.jpg"
       },
       {
         title: { hy: "Նորավանք", ru: "Монастырь Нораванк", en: "Noravank Monastery" },
@@ -544,7 +544,7 @@ const toursData =[
           ru: "Шедевр средневекового зодчества мастера Момика, окруженный пылающими охрой скалами ущелья.",
           en: "A high-medieval architectural masterpiece by master Momik, surrounded by blazing red rock walls."
         },
-        photo: "/img/img_khor-virap-jermuk_2.jpg"
+        photo: "./img/img_khor-virap-jermuk_2.jpg"
       }
     ]
   },
@@ -553,7 +553,7 @@ const toursData =[
     price: 50000,
     region: "Kotayk",
     duration: 1,
-    image: "/img/img_garni-geghard-classic_1.jpg",
+    image: "./img/img_garni-geghard-classic_1.jpg",
            
     title: {
       hy: "Գառնի, Գեղարդ և Քարերի Սիմֆոնիա",
@@ -573,7 +573,7 @@ const toursData =[
           ru: "Знаменитая смотровая площадка, обрамляющая панорамный вид на заснеженную вершину горы Арарат.",
           en: "A beautiful stone monument designed perfectly to frame the breathtaking panorama of Mt. Ararat."
         },
-        photo: "/img/img_garni-geghard-classic_1.jpg"
+        photo: "./img/img_garni-geghard-classic_1.jpg"
       },
       {
         title: { hy: "Գառնիի Տաճար", ru: "Языческий храм Гарни", en: "Garni Pagan Temple" },
@@ -582,7 +582,7 @@ const toursData =[
           ru: "Единственный сохранившийся языческий храм в регионе, величественный памятник эллинизма I века н.э.",
           en: "The only surviving Greco-Roman pagan temple in the post-Soviet space, dating back to the 1st century AD."
         },
-        photo: "/img/img_garni-geghard-classic_2.jpg"
+        photo: "./img/img_garni-geghard-classic_2.jpg"
       },
       {
         title: { hy: "Քարերի Սիմֆոնիա", ru: "Симфония Камней", en: "Symphony of Stones" },
@@ -591,7 +591,7 @@ const toursData =[
           ru: "Фантастические базальтовые скалы ущелья Гарни, напоминающие гигантский орган ручной работы.",
           en: "Breathtaking basalt organ-pipe structures filling the Garni gorge, shaped by natural volcanic forces."
         },
-        photo: "/img/img_garni-geghard-classic_3.jpg"
+        photo: "./img/img_garni-geghard-classic_3.jpg"
       },
       {
         title: { hy: "Գեղարդավանք", ru: "Монастырь Гегард", en: "Geghard Cave Monastery" },
@@ -600,7 +600,7 @@ const toursData =[
           ru: "Потрясающий скальный монастырь IV века, занесенный в ЮНЕСКО. Часть храмов высечена прямо внутри утеса.",
           en: "An astonishing 4th-century cave monastery where churches are carved directly inside solid mountain rock."
         },
-        photo: "/img/img_garni-geghard-classic_4.jpg"
+        photo: "./img/img_garni-geghard-classic_4.jpg"
       },
       {
         title: { hy: "Ազատի Ջրամբար", ru: "Азатское водохранилище", en: "Azat Reservoir" },
@@ -609,7 +609,7 @@ const toursData =[
           ru: "Живописное водохранилище с бирюзовой водой, окруженное марсианскими каньонами и складчатыми горами.",
           en: "A scenic reservoir with turquoise waters surrounded by abstract, Martian-like clay canyons."
         },
-        photo: "/img/img_garni-geghard-classic_5.jpg"
+        photo: "./img/img_garni-geghard-classic_5.jpg"
       },
       {
         title: { hy: "Խոր Վիրապ", ru: "Монастырь Хор Вирап", en: "Khor Virap Finish" },
@@ -618,7 +618,7 @@ const toursData =[
           ru: "Финальная точка у подножия великой горы, закрепляющая яркие эмоции от поездки.",
           en: "The grand finale at the legendary base of Mt. Ararat, completing your historical loop."
         },
-        photo: "/img/img_khor-virap-jermuk_1.jpg"
+        photo: "./img/img_khor-virap-jermuk_1.jpg"
       }
     ]
   },
@@ -628,7 +628,7 @@ const toursData =[
     price: 50000,
     region: "Aragatsotn",
     duration: 1,
-    image: "/img/img_aragats-amberd-adventure_1.jpg",
+    image: "./img/img_aragats-amberd-adventure_1.jpg",
     title: {
       hy: "Արագածի բարձունքներ. Ամբերդ և Քարի Լիճ",
       ru: "Высоты Арагаца: Амберд и Озеро Кари",
@@ -647,7 +647,7 @@ const toursData =[
           ru: "Величественный средневековый монастырский комплекс XIII века, эффектно парящий над глубоким каньоном реки Касах.",
           en: "A majestic 13th-century monastery complex dramatically perched on the edge of the deep Kasakh river gorge."
         },
-        photo: "/img/img_aragats-amberd-adventure_1.jpg"
+        photo: "./img/img_aragats-amberd-adventure_1.jpg"
       },
       {
         title: { hy: "Սաղմոսավանք", ru: "Монастырь Сагмосаванк", en: "Saghmosavank Monastery" },
@@ -656,7 +656,7 @@ const toursData =[
           ru: "Знаменитый «Монастырь псалмов» XIII века, известный своей невероятной акустикой и панорамами.",
           en: "The beautiful 13th-century 'Monastery of Psalms', famous for its breathtaking canyon views and spirituality."
         },
-        photo: "/img/img_aragats-amberd-adventure_2.jpg"
+        photo: "./img/img_aragats-amberd-adventure_2.jpg"
       },
       {
         title: { hy: "Հայոց Տառերի Պուրակ", ru: "Памятник армянскому алфавиту", en: "Armenian Alphabet Monument" },
@@ -665,7 +665,7 @@ const toursData =[
           ru: "Уникальный мемориальный комплекс из гигантских букв, высеченных из разноцветного туфа прямо под открытым небом.",
           en: "A unique open-air monument featuring giant stone-carved letters celebrating the native Armenian script."
         },
-        photo: "/img/img_aragats-amberd-adventure_3.jpg"
+        photo: "./img/img_aragats-amberd-adventure_3.jpg"
       },
       {
         title: { hy: "Ամբերդ Ամրոց", ru: "Средневековая крепость Амберд", en: "Amberd Medieval Fortress" },
@@ -674,7 +674,7 @@ const toursData =[
           ru: "Средневековый замок-крепость VII века, расположенный на высоте 2300 метров на пересечении горных рек.",
           en: "A 7th-century cloud-kissed castle-fortress standing at 2,300 meters above sea level between two deep alpine rivers."
         },
-        photo: "/img/img_aragats-amberd-adventure_4.jpg"
+        photo: "./img/img_aragats-amberd-adventure_4.jpg"
       },
       {
         title: { hy: "Քարի Լիճ", ru: "Высокогорное озеро Кари", en: "Glacial Lake Kari" },
@@ -683,7 +683,7 @@ const toursData =[
           ru: "Фантастическое ледниковое озеро на высоте 3200 метров у подножия заснеженных пиков Арагаца.",
           en: "An otherworldly glacial lake sitting at an altitude of 3,200 meters near the jagged stone peaks of Mt. Aragats."
         },
-        photo: "/img/img_aragats-amberd-adventure_5.jpg"
+        photo: "./img/img_aragats-amberd-adventure_5.jpg"
       }
     ]
   },
@@ -693,7 +693,7 @@ const toursData =[
     price: 120000,
     region: "Syunik",
     duration: 2,
-    image: "/img/img_tatev-wings-two-days_1.jpg",
+    image: "./img/img_tatev-wings-two-days_1.jpg",
     title: {
       hy: "Հարավային Հրաշքներ. Տաթև և Սյունիք (2 օր)",
       ru: "Чудеса Юга: Крылья Татева и Сюник (2 дня)",
@@ -712,7 +712,7 @@ const toursData =[
           ru: "Древний пещерный город и знаменитый подвесной («качающийся») мост над глубоким зеленым ущельем.",
           en: "Ancient cave city and the famous swinging suspension bridge hanging over a dramatic deep gorge."
         },
-        photo: "/img/img_tatev-wings-two-days_1.jpg"
+        photo: "./img/img_tatev-wings-two-days_1.jpg"
       },
       {
         title: { hy: "Տաթևի Թևեր", ru: "Канатная дорога «Крылья Татева»", en: "Wings of Tatev Aerial Tramway" },
@@ -721,7 +721,7 @@ const toursData =[
           ru: "Самая длинная в мире реверсивная канатная дорога, дарящая полет птицы над Воротанским ущельем.",
           en: "The world's longest reversible aerial tramway, offering a bird's-eye flight over the Vorotan Gorge."
         },
-        photo: "/img/img_tatev-wings-two-days_2.jpg"
+        photo: "./img/img_tatev-wings-two-days_2.jpg"
       },
       {
         title: { hy: "Տաթևի Վանք", ru: "Монастырь Татев", en: "Tatev Monastery" },
@@ -730,7 +730,7 @@ const toursData =[
           ru: "Величественный средневековый монастырский комплекс IX века, неприступная твердыня над глубоким обрывом.",
           en: "A majestic 9th-century medieval monastery complex, historically perched on the edge of a massive cliff."
         },
-        photo: "/img/img_tatev-wings-two-days_3.jpg"
+        photo: "./img/img_tatev-wings-two-days_3.jpg"
       },
       {
         title: { hy: "Սատանի Կամուրջ", ru: "Чёртов мост", en: "Devil's Bridge" },
@@ -739,7 +739,7 @@ const toursData =[
           ru: "Уникальный природный мост, созданный из травертина, окруженный целебными минеральными источниками.",
           en: "A stunning natural travertine bridge surrounded by warm mineral springs and stalactite caves."
         },
-        photo: "/img/img_tatev-wings-two-days_4.jpg"
+        photo: "./img/img_tatev-wings-two-days_4.jpg"
       },
       {
         title: { hy: "Քարահունջ (Զորաց Քարեր)", ru: "Караундж (Зорац Карер)", en: "Karahunj (Zorats Karer)" },
@@ -748,7 +748,7 @@ const toursData =[
           ru: "Один из древнейших мегалитических комплексов в мире — «армянский Стоунхендж», бывший обсерваторией.",
           en: "One of the world's oldest megalithic monuments—often called 'Armenian Stonehenge'—an ancient observatory."
         },
-        photo: "/img/img_tatev-wings-two-days_5.jpg"
+        photo: "./img/img_tatev-wings-two-days_5.jpg"
       },
       {
         title: { hy: "Շաքիի Ջրվեժ", ru: "Водопад Шаки", en: "Shaki Waterfall" },
@@ -757,7 +757,7 @@ const toursData =[
           ru: "Один из самых живописных и мощных водопадов Армении, ниспадающий каскадами из базальтового ущелья.",
           en: "One of Armenia's most picturesque and powerful waterfalls, cascading down a beautiful basalt gorge."
         },
-        photo: "/img/img_tatev-wings-two-days_6.jpg"
+        photo: "./img/img_tatev-wings-two-days_6.jpg"
       }
     ]
   },
@@ -766,7 +766,7 @@ const toursData =[
     price: 50000,
     region: "Shirak",
     duration: 1,
-    image: "/img/img_gyumri-cultural-capital_1.jpg",
+    image: "./img/img_gyumri-cultural-capital_1.jpg",
     title: {
       hy: "Գյումրի. Մշակութային Մայրաքաղաք",
       ru: "Гюмри — Культурная Столица",
@@ -785,7 +785,7 @@ const toursData =[
           ru: "Отличное место для отдыха в дороге: пробуем знаменитый апаранский лаваш и аутентичные кавказские блюда.",
           en: "A perfect lifestyle rest stop to enjoy freshly baked local bread and authentic Armenian culinary delights."
         },
-        photo: "/img/img_gyumri-cultural-capital_2.jpg"
+        photo: "./img/img_gyumri-cultural-capital_2.jpg"
       },
       {
         title: { hy: "Հառիճավանք", ru: "Монастырь Аричаванк", en: "Harichavank Monastery" },
@@ -794,7 +794,7 @@ const toursData =[
           ru: "Один из крупнейших и старейших монастырских комплексов Армении, величественный памятник зодчества.",
           en: "One of the largest and oldest monastery complexes in Armenia, a pristine monument of medieval engineering."
         },
-        photo: "/img/img_gyumri-cultural-capital_1.jpg"
+        photo: "./img/img_gyumri-cultural-capital_1.jpg"
       },
       {
         title: { hy: "Վարդանանց Հրապարակ", ru: "Площадь Вардананц", en: "Vardanants Square" },
@@ -803,7 +803,7 @@ const toursData =[
           ru: "Главная историческая площадь города Гюмри с величественными фонтанами и панорамным обзором.",
           en: "The grand central square of Gyumri, flanked by historical buildings and beautiful monumental fountains."
         },
-        photo: "/img/img_gyumri-cultural-capital_3.jpg"
+        photo: "./img/img_gyumri-cultural-capital_3.jpg"
       },
       {
         title: { hy: "Սուրբ Ամենափրկիչ Եկեղեցի", ru: "Церковь Святого Спасителя", en: "Holy Saviour Church" },
@@ -812,7 +812,7 @@ const toursData =[
           ru: "Монументальный храм из черного туфа, главный символ стойкости города Гюмри.",
           en: "The iconic black tuff church, standing proud as a supreme symbol of Gyumri’s spiritual resilience."
         },
-        photo: "/img/img_gyumri-cultural-capital_4.jpg"
+        photo: "./img/img_gyumri-cultural-capital_4.jpg"
       },
       {
         title: { hy: "Սև Բերդ", ru: "Чёрная крепость", en: "The Black Fortress" },
@@ -821,7 +821,7 @@ const toursData =[
           ru: "Уникальное фортификационное сооружение XIX века, круглая цитадель с потрясающей акустикой.",
           en: "A massive 19th-century Imperial Russian military fortification, offering majestic circular acoustics."
         },
-        photo: "/img/img_gyumri-cultural-capital_5.jpg"
+        photo: "./img/img_gyumri-cultural-capital_5.jpg"
       },
       {
         title: { hy: "Աբովյան Փողոց և Կումայրի", ru: "Улица Абовяна и Кумайри", en: "Abovyan Street & Kumayri District" },
@@ -830,7 +830,7 @@ const toursData =[
           ru: "Старый город Александрополь с аутентичными коваными балконами и фасадами из темного резного туфа.",
           en: "The ancient urban core of Alexandropol, showcasing rich 19th-century architecture and carved tuff facades."
         },
-        photo: "/img/img_gyumri-cultural-capital_6.jpg"
+        photo: "./img/img_gyumri-cultural-capital_6.jpg"
       }
     ]
   },
@@ -839,7 +839,7 @@ const toursData =[
     price: 40000,
     region: "Kotayk",
     duration: 1,
-    image: "/img/img_tsaghkadzor-sevan-adventure_1.jpg",
+    image: "./img/img_tsaghkadzor-sevan-adventure_1.jpg",
     title: {
       hy: "Ծաղկաձորի Բարձունքներ և Սևանա Լիճ",
       ru: "Драйв в Цахкадзоре и Жемчужина Севан",
@@ -858,7 +858,7 @@ const toursData =[
           ru: "Знаменитый горный оазис, окруженный густыми изумрудными лесами и заснеженными хребтами.",
           en: "Armenia's premier alpine town, surrounded by lush velvet forests and panoramic ski peaks."
         },
-        photo: "/img/img_tsaghkadzor-sevan-adventure_1.jpg"
+        photo: "./img/img_tsaghkadzor-sevan-adventure_1.jpg"
       },
       {
         title: { hy: "Ծաղկաձորի Ճոպանուղի", ru: "Горная канатная дорога", en: "Tsaghkadzor Ropeway Ride" },
@@ -867,7 +867,7 @@ const toursData =[
           ru: "Подъем на современных открытых подъемниках на гору Тегенис с панорамами на кавказские хребты.",
           en: "An alpine ride up Mount Teghenis, revealing endless scenic horizons across the Armenian highlands."
         },
-        photo: "/img/img_tsaghkadzor-sevan-adventure_2.jpg"
+        photo: "./img/img_tsaghkadzor-sevan-adventure_2.jpg"
       },
       {
         title: { hy: "Կեչառիս Վանական Համալիր", ru: "Монастырь Кечарис", en: "Kecharis Monastery Complex" },
@@ -876,7 +876,7 @@ const toursData =[
           ru: "Средневековый монастырский комплекс XI–XIII веков, духовное сердце древних армянских князей.",
           en: "A royal 11th to 13th-century medieval monastery complex settled peacefully within the resort's heart."
         },
-        photo: "/img/img_tsaghkadzor-sevan-adventure_3.jpg"
+        photo: "./img/img_tsaghkadzor-sevan-adventure_3.jpg"
       },
       {
         title: { hy: "Զիփլայն Ադրենալին", ru: "Полет на Зиплайне", en: "Zipline Extreme Experience" },
@@ -885,7 +885,7 @@ const toursData =[
           ru: "Заряд адреналина во время скоростного полета над горными ущельями и верхушками вековых сосен.",
           en: "A high-speed adrenaline flight on a zipline wire stretching over deep mountain valleys and pine trees."
         },
-        photo: "/img/img_tsaghkadzor-sevan-adventure_4.jpg"
+        photo: "./img/img_tsaghkadzor-sevan-adventure_4.jpg"
       },
       {
         title: { hy: "Սևանա Լիճ", ru: "Высокогорное озеро Севан", en: "Alpine Lake Sevan" },
@@ -894,7 +894,7 @@ const toursData =[
           ru: "Гигантское лазурное зеркало Кавказа, расположенное на высоте почти 2000 метров над уровнем моря.",
           en: "The crown jewel of Armenia—a massive turquoise alpine lake shimmering at 1,900 meters high."
         },
-        photo: "/img/img_tsaghkadzor-sevan-adventure_5.jpg"
+        photo: "./img/img_tsaghkadzor-sevan-adventure_5.jpg"
       },
       {
         title: { hy: "Սևանավանք", ru: "Монастырь Севанаվանք", en: "Sevanavank Monastery" },
@@ -903,7 +903,7 @@ const toursData =[
           ru: "Древний аскетичный монастырь IX века из черного камня, возвышающийся на панорамном полуострове.",
           en: "An ancient 9th-century monastery built of dark volcanic stone, framing the single best panorama of the lake."
         },
-        photo: "/img/img_tsaghkadzor-sevan-adventure_6.jpg"
+        photo: "./img/img_tsaghkadzor-sevan-adventure_6.jpg"
       }
     ]
   },
@@ -912,7 +912,7 @@ const toursData =[
     price: 70000,
     region: "Tavush",
     duration: 1,
-    image: "/img/img_sevan-dilijan-tavush_1.jpg",
+    image: "./img/img_sevan-dilijan-tavush_1.jpg",
     title: {
       hy: "Կապույտ Սևան, Դիլիջան և Տավուշի Գաղտնիքները",
       ru: "Лазурный Севан, Дилижан и Легенды Тавуша",
@@ -931,7 +931,7 @@ const toursData =[
           ru: "Знакомство с высокогорной жемчужиной и подъем к черным куполам древнего островного монастыря.",
           en: "Introduction to the giant alpine jewel and a walk to the volcanic stone domes of the historic monastery."
         },
-        photo: "/img/img_sevan-dilijan-tavush_1.jpg"
+        photo: "./img/img_sevan-dilijan-tavush_1.jpg"
       },
       {
         title: { hy: "Հին Դիլիջան", ru: "Исторический квартал Старый Дилижан", en: "Old Dilijan Sharambeyan Street" },
@@ -940,7 +940,7 @@ const toursData =[
           ru: "Исторический квартал с аутентичными резными деревянными балконами и ремесленными мастерскими.",
           en: "A romantic heritage street boasting 19th-century carved wood balconies and active art workshops."
         },
-        photo: "/img/img_sevan-dilijan-tavush_2.jpg"
+        photo: "./img/img_sevan-dilijan-tavush_2.jpg"
       },
       {
         title: { hy: "«Միմինո» Հուշարձան", ru: "Памятник героям фильма «Мимино»", en: "Mimino Movie Monument" },
@@ -949,7 +949,7 @@ const toursData =[
           ru: "Легендарный памятник трем культовым персонажам советского кино, символизирующий дружбу народов.",
           en: "The legendary bronze monument dedicated to the beloved characters of the classic Soviet movie Mimino."
         },
-        photo: "/img/img_sevan-dilijan-tavush_3.jpg"
+        photo: "./img/img_sevan-dilijan-tavush_3.jpg"
       },
       {
         title: { hy: "Գոշավանք", ru: "Մոնաստիր Գոշավանք", en: "Goshavank Monastery" },
@@ -958,7 +958,7 @@ const toursData =[
           ru: "Великолепный культурный комплекс XII-XIII веков, родина первой армянской судебной конституции.",
           en: "A beautiful 12th-century medieval academy founded by modern code-of-law thinker Mkhitar Gosh."
         },
-        photo: "/img/img_sevan-dilijan-tavush_4.jpg"
+        photo: "./img/img_sevan-dilijan-tavush_4.jpg"
       },
       {
         title: { hy: "Իջևանի Գինու Գործարան", ru: "Иджеванский винный завод", en: "Ijevan Wine & Brandy Factory" },
@@ -967,7 +967,7 @@ const toursData =[
           ru: "Экскурсия по историческим погребам с дегустацией изысканных виноградных и эксклюзивных гранатовых вин.",
           en: "A VIP walk into deep historical cellars featuring premium tastings of award-winning pomegranate wines."
         },
-        photo: "/img/img_sevan-dilijan-tavush_5.jpg"
+        photo: "./img/img_sevan-dilijan-tavush_5.jpg"
       },
       {
         title: { hy: "Մակարավանք", ru: "Մոնաստիր Մակարավանք", en: "Makaravank Monastery Hidden Gem" },
@@ -976,7 +976,7 @@ const toursData =[
           ru: "Уединенный шедевр резьбы по камню, спрятанный в густых девственных лесах Тавушского региона.",
           en: "An isolated 10th-century stone carving masterpiece hidden within the pristine deep forests of Tavush."
         },
-        photo: "/img/img_sevan-dilijan-tavush_6.jpg"
+        photo: "./img/img_sevan-dilijan-tavush_6.jpg"
       }
     ]
   },
@@ -985,7 +985,7 @@ const toursData =[
     price: 45000,
     region: "Aragatsotn",
     duration: 1,
-    image: "/img/img_ashtarak-traditions-voskevaz_1.jpg",
+    image: "./img/img_ashtarak-traditions-voskevaz_1.jpg",
     title: {
       hy: "Հին Աշտարակ և Ոսկեվազ Գինու Դղյակ",
       ru: "Древний Аштарак и Винный Замок Воскеваз",
@@ -1004,7 +1004,7 @@ const toursData =[
           ru: "Монументальная базилика V–VI веков, один из древнейших фортифицированных раннехристианских храмов.",
           en: "A monumental 5th-century early Christian basilica, standing as one of the oldest stone-built fortifications."
         },
-        photo: "/img/img_ashtarak-traditions-voskevaz_1.jpg"
+        photo: "./img/img_ashtarak-traditions-voskevaz_1.jpg"
       },
       {
         title: { hy: "Սպիտակավոր Եկեղեցի", ru: "Церковь Спитакавор", en: "Spitakavor Shret Church" },
@@ -1013,7 +1013,7 @@ const toursData =[
           ru: "Уютный средневековый храм XIII века, известный своей поэтичной уединенной атмосферой над обрывом ущелья.",
           en: "A charming 13th-century shrine perched beautifully above a gorge, famous for its serene spiritual silence."
         },
-        photo: "/img/img_ashtarak-traditions-voskevaz_2.jpg"
+        photo: "./img/img_ashtarak-traditions-voskevaz_2.jpg"
       },
       {
         title: { hy: "Կարմրավոր Եկեղեցի", ru: "Церковь Кармравор", en: "Karmravor Red Roof Church" },
@@ -1022,7 +1022,7 @@ const toursData =[
           ru: "Уникальный храм VII века, полностью сохранивший свою первозданную черепичную кровлю со времен постройки.",
           en: "A perfectly preserved 7th-century architectural cross-dome jewel keeping its original clay-tiled roof intact."
         },
-        photo: "/img/img_ashtarak-traditions-voskevaz_3.jpg"
+        photo: "./img/img_ashtarak-traditions-voskevaz_3.jpg"
       },
       {
         title: { hy: "Ոսկեվազ Գինու Գործարան", ru: "Винный завод «Воскеваз»", en: "Voskevaz Winery Castle" },
@@ -1031,7 +1031,7 @@ const toursData =[
           ru: "Потрясающий винный арт-замок, где аутентичные вина выдерживаются в глиняных амфорах-карасах.",
           en: "An artistic medieval-style winery castle aging premium single-estate wines in traditional clay karas amphoras."
         },
-        photo: "/img/img_ashtarak-traditions-voskevaz_4.jpg"
+        photo: "./img/img_ashtarak-traditions-voskevaz_4.jpg"
       }
     ]
   },
@@ -1040,7 +1040,7 @@ const toursData =[
     price: 50000,
     region: "Aragatsotn",
     duration: 1,
-    image: "/img/img_aragats-cloud-fortress_1.jpg",
+    image: "./img/img_aragats-cloud-fortress_1.jpg",
     title: {
       hy: "Արագածի Գաղտնիքները. Տեղեր, Ամբերդ և Քարի Լիճ",
       ru: "Тайны Арагаца: Монастырь Тегер, Амберд и Озеро Кари",
@@ -1059,7 +1059,7 @@ const toursData =[
           ru: "Суровый и величественный монастырь XIII века на горном склоне с лучшими панорамами на Араратскую долину.",
           en: "A dark, powerful 13th-century mountain sanctuary offering majestic birds-eye views over the Ararat Valley."
         },
-        photo: "/img/img_aragats-cloud-fortress_1.jpg"
+        photo: "./img/img_aragats-cloud-fortress_1.jpg"
       },
       {
         title: { hy: "Ամբերդ Ամրոց", ru: "Средневековая крепость Амберд", en: "Amberd Medieval Castle Fortress" },
@@ -1068,7 +1068,7 @@ const toursData =[
           ru: "Феодальный замок VII века, парящий среди облаков на стыке крутых скалистых каньонов горных рек.",
           en: "An invincible 7th-century princely citadel guarding the high ridges between sheer rocky canyons."
         },
-        photo: "/img/img_aragats-amberd-adventure_4.jpg"
+        photo: "./img/img_aragats-amberd-adventure_4.jpg"
       },
       {
         title: { hy: "Քարի Լիճ", ru: "Высокогорное озеро Кари", en: "Glacial Lake Kari Expedition" },
@@ -1077,7 +1077,7 @@ const toursData =[
           ru: "Кристально чистое космическое озеро на высоте 3200 метров у подножия вечных снегов Арагаца.",
           en: "A crystal-clear volcanic lake resting at an altitude of 3,200 meters directly under sub-alpine jagged peaks."
         },
-        photo: "/img/img_aragats-amberd-adventure_5.jpg"
+        photo: "./img/img_aragats-amberd-adventure_5.jpg"
       }
     ]
   },
@@ -1086,7 +1086,7 @@ const toursData =[
     price: 80000,
     region: "Gegharkunik",
     duration: 1,
-    image: "/img/img_tsaghkadzor-sevan-adventure_5.jpg",
+    image: "./img/img_tsaghkadzor-sevan-adventure_5.jpg",
     title: {
       hy: "Մետաքսի Ճանապարհ. Սևան, Գաստրո-Պոդիում և Ջերմուկ",
       ru: "Шёлковый Путь: Севан, Гастро-Сыроварня и Джермук",
@@ -1105,7 +1105,7 @@ const toursData =[
           ru: "Панорамная остановка у безграничной лазурной глади великого кавказского озера.",
           en: "A scenic morning arrival by the sweeping turquoise shoreline of the high-altitude sea."
         },
-        photo: "/img/img_tsaghkadzor-sevan-adventure_5.jpg"
+        photo: "./img/img_tsaghkadzor-sevan-adventure_5.jpg"
       },
       {
         title: { hy: "Հայրավանք", ru: "Монастырь Айраванк", en: "Hayravank Monastery" },
@@ -1114,7 +1114,7 @@ const toursData =[
           ru: "Редкой красоты уединенный монастырь IX века, стоящий прямо на отвесной скале у самой воды.",
           en: "A rugged 9th-century stone monastery dramatically framing the endless blue water horizons."
         },
-        photo: "/img/img_sevan-gastronomy-jermuk_2.jpg"
+        photo: "./img/img_sevan-gastronomy-jermuk_2.jpg"
       },
       {
         title: { hy: "Պրեմիում Սիրանոց", ru: "Крафтовая сыроварня", en: "Boutique Aged Cheese Cellar" },
@@ -1123,7 +1123,7 @@ const toursData =[
           ru: "Эксклюзивная дегустация редких сортов крафтового сыра, выдержанных в алкоголе и глиняных горшках.",
           en: "A luxury tasting of organic artisan cheeses carefully aged in local wines, brandies, and underground pits."
         },
-        photo: "/img/img_sevan-gastronomy-jermuk_3.jpg"
+        photo: "./img/img_sevan-gastronomy-jermuk_3.jpg"
       },
       {
         title: { hy: "Վարդենյաց (Սելիմի) Լեռնանցք", ru: "Селимский перевал", en: "Vardenyats (Selim) Mountain Pass" },
@@ -1132,7 +1132,7 @@ const toursData =[
           ru: "Один из самых захватывающих и живописных альпийских перевалов с панорамными видами на 360 градусов.",
           en: "One of the country's most breath-taking mountain passes winding high along the ancient trading tracks."
         },
-        photo: "/img/img_sevan-gastronomy-jermuk_4.jpg"
+        photo: "./img/img_sevan-gastronomy-jermuk_4.jpg"
       },
       {
         title: { hy: "Օրբելյանների Քարավանատուն", ru: "Караван-сарай Орбелянов", en: "Orbelian's Silk Road Caravanserai" },
@@ -1141,7 +1141,7 @@ const toursData =[
           ru: "Великолепно сохранившийся каменный постоялый двор 1332 года, принимавший купцов Великого шелкового пути.",
           en: "A perfectly preserved basalt stone inn built in 1332 to host trading caravans travelling from Europe to China."
         },
-        photo: "/img/img_sevan-gastronomy-jermuk_5.jpg"
+        photo: "./img/img_sevan-gastronomy-jermuk_5.jpg"
       },
       {
         title: { hy: "Ջերմուկ Առողջարան", ru: "Курортный город Джермук", en: "Jermuk Mineral Waters & Waterfall" },
@@ -1150,7 +1150,7 @@ const toursData =[
           ru: "Прогулка по питьевой галерее и отдых у знаменитого каскадного водопада «Волосы русалки».",
           en: "A relaxing stroll along the hot thermal springs gallery and the legendary cascading waterfalls."
         },
-        photo: "/img/img_khor-virap-jermuk_5.jpg"
+        photo: "./img/img_khor-virap-jermuk_5.jpg"
       },
       {
         title: { hy: "Արենիի Գինու Գործարան", ru: "Винный завод Арени", en: "Areni Vineyards & Winery Finale" },
@@ -1159,7 +1159,7 @@ const toursData =[
           ru: "Финальный аккорд в легендарном селе Арени с дегустацией ярких выдержанных вин региона Вайоц Дзор.",
           en: "The grand finale tasting inside the historical cradle of winemaking in the Vayots Dzor province."
         },
-        photo: "/img/img_khor-virap-jermuk_4.jpg"
+        photo: "./img/img_khor-virap-jermuk_4.jpg"
       }
     ]
   },
@@ -1173,7 +1173,7 @@ const toursData =[
     price: 80000,
     region: "Lori",
     duration: 1,
-    image: "/img/img_haghpat-sanahin-akhtala_1.jpg", 
+    image: "./img/img_haghpat-sanahin-akhtala_1.jpg", 
     title: {
       hy: "Հաղպատ, Սանահին և Ախթալա",
       ru: "Ахпат, Санаин и Ахтала",
@@ -1192,7 +1192,7 @@ const toursData =[
           ru: "Выдающийся памятник армянской средневековой архитектуры X века, включенный в список ЮНЕСКО.",
           en: "An outstanding monument of 10th-century Armenian medieval architecture, listed as a UNESCO World Heritage site."
         },
-        photo: "/img/img_haghpat-sanahin-akhtala_1.jpg"
+        photo: "./img/img_haghpat-sanahin-akhtala_1.jpg"
       },
       {
         title: { hy: "Սանահինի վանք", ru: "Монастырь Санаин", en: "Sanahin Monastery" },
@@ -1201,7 +1201,7 @@ const toursData =[
           ru: "Уникальный монастырский комплекс X века, бывший важным духовным и образовательным центром средневековой Армении.",
           en: "A unique 10th-century monastery complex that served as a major spiritual and educational hub in medieval Armenia."
         },
-        photo: "/img/img_haghpat-sanahin-akhtala_2.jpg"
+        photo: "./img/img_haghpat-sanahin-akhtala_2.jpg"
       },
       {
         title: { hy: "Ախթալայի վանք", ru: "Монастырь Ахтала", en: "Akhtala Monastery" },
@@ -1210,7 +1210,7 @@ const toursData =[
           ru: "Средневековый монастырь-крепость, знаменитый своими великолепными и уникально сохранившимися фресками.",
           en: "A medieval fortress-monastery, famous for its magnificent and uniquely preserved beautiful frescoes."
         },
-        photo: "/img/img_haghpat-sanahin-akhtala_3.jpg"
+        photo: "./img/img_haghpat-sanahin-akhtala_3.jpg"
       }
     ]
 },
@@ -1225,7 +1225,7 @@ const toursData =[
     price: 50000,
     region: "Gegharkunik, Tavush",
     duration: 1,
-    image: "/img/img_sevan-dilijan-haghartsin-parz_1.jpg", 
+    image: "./img/img_sevan-dilijan-haghartsin-parz_1.jpg", 
     title: {
       hy: "Սևան, Դիլիջան, Հաղարծին և Պարզ Լիճ",
       ru: "Севан, Дилижан, Агарцин и Озеро Парз",
@@ -1244,7 +1244,7 @@ const toursData =[
           ru: "Крупнейшее высокогорное озеро Кавказа, известное своими потрясающими лазурными водами и горными пейзажами.",
           en: "The largest alpine lake in the Caucasus, famous for its stunning azure waters and mountain landscapes."
         },
-        photo: "/img/img_sevan-dilijan-haghartsin-parz_1.jpg"
+        photo: "./img/img_sevan-dilijan-haghartsin-parz_1.jpg"
       },
       {
         title: { hy: "Սևանավանք", ru: "Монастырь Севанаванк", en: "Sevanavank Monastery" },
@@ -1253,7 +1253,7 @@ const toursData =[
           ru: "Древний монастырь IX века на Севанском полуострове, откуда открывается великолепный вид на озеро.",
           en: "An ancient 9th-century monastery on the Sevan peninsula, offering breathtaking views of the lake."
         },
-        photo: "/img/img_sevan-dilijan-haghartsin-parz_2.jpg"
+        photo: "./img/img_sevan-dilijan-haghartsin-parz_2.jpg"
       },
       {
         title: { hy: "Հին Դիլիջան", ru: "Старый Дилижан", en: "Old Dilijan" },
@@ -1262,7 +1262,7 @@ const toursData =[
           ru: "Уютный исторический квартал с традиционными деревянными балконами, мастерскими и атмосферой XIX века.",
           en: "A cozy historic quarter with traditional wooden balconies, craft workshops, and a 19th-century atmosphere."
         },
-        photo: "/img/img_sevan-dilijan-haghartsin-parz_3.jpg"
+        photo: "./img/img_sevan-dilijan-haghartsin-parz_3.jpg"
       },
       {
         title: { hy: "«Միմինո» ֆիլմի հերոսների հուշարձան", ru: "Памятник героям фильма «Мимино»", en: "Mimino Movie Heroes Monument" },
@@ -1271,7 +1271,7 @@ const toursData =[
           ru: "Знаменитый и любимый памятник в Дилижане, посвященный искренней дружбе и легендам кино.",
           en: "A famous and beloved monument in Dilijan, dedicated to sincere friendship and cinema legends."
         },
-        photo: "/img/img_sevan-dilijan-haghartsin-parz_4.jpg"
+        photo: "./img/img_sevan-dilijan-haghartsin-parz_4.jpg"
       },
       {
         title: { hy: "Հաղարծնի վանք", ru: "Монастырь Агарцин", en: "Haghartsin Monastery" },
@@ -1280,7 +1280,7 @@ const toursData =[
           ru: "Сказочный средневековый монастырский комплекс, спрятанный в густых лесах Дилижана.",
           en: "A fairytale medieval monastery complex hidden deep within the lush forests of Dilijan."
         },
-        photo: "/img/img_sevan-dilijan-haghartsin-parz_5.jpg"
+        photo: "./img/img_sevan-dilijan-haghartsin-parz_5.jpg"
       },
       {
         title: { hy: "Պարզ լիճ", ru: "Озеро Парз", en: "Parz Lake" },
@@ -1289,7 +1289,7 @@ const toursData =[
           ru: "Живописное лесное озеро в Дилижанском национальном парке, идеальное для отдыха и прогулок на природе.",
           en: "A picturesque forest lake in Dilijan National Park, perfect for relaxation and walking in nature."
         },
-        photo: "/img/img_sevan-dilijan-haghartsin-parz_6.jpg"
+        photo: "./img/img_sevan-dilijan-haghartsin-parz_6.jpg"
       }
     ]
 },
@@ -1301,7 +1301,7 @@ const toursData =[
     price: 100000,
     region: "Ararat, Vayots Dzor, Syunik",
     duration: 1,
-    image: "/img/img_khor-virap-noravank-shaki-tatev_1.jpg", 
+    image: "./img/img_khor-virap-noravank-shaki-tatev_1.jpg", 
     title: {
       hy: "Խոր Վիրապ, Նորավանք, Շաքի և Տաթև",
       ru: "Хор Вирап, Нораванк, Шаки и Татев",
@@ -1320,7 +1320,7 @@ const toursData =[
           ru: "Знаменитый монастырь у самого подножия горы Арарат, колыбель христианства в Армении.",
           en: "The famous monastery right at the foot of Mount Ararat, the cradle of Christianity in Armenia."
         },
-        photo: "/img/img_khor-virap-noravank-shaki-tatev_1.jpg"
+        photo: "./img/img_khor-virap-noravank-shaki-tatev_1.jpg"
       },
       {
         title: { hy: "Նորավանք", ru: "Монастырь Нораванк", en: "Noravank Monastery" },
@@ -1329,7 +1329,7 @@ const toursData =[
           ru: "Один из самых красивых монастырских комплексов XIII века, окруженный величественными красными скалами.",
           en: "One of the most beautiful 13th-century monastery complexes, surrounded by magnificent red cliffs."
         },
-        photo: "/img/img_khor-virap-noravank-shaki-tatev_2.jpg"
+        photo: "./img/img_khor-virap-noravank-shaki-tatev_2.jpg"
       },
       {
         title: { hy: "Արենիի գինու գործարան", ru: "Винный завод Арени", en: "Areni Winery" },
@@ -1338,7 +1338,7 @@ const toursData =[
           ru: "Традиционная винодельня, где вас ждет дегустация изысканных местных армянских вин.",
           en: "A traditional winery where you can enjoy a wine tasting of local Armenian wines."
         },
-        photo: "/img/img_khor-virap-noravank-shaki-tatev_3.jpg"
+        photo: "./img/img_khor-virap-noravank-shaki-tatev_3.jpg"
       },
       {
         title: { hy: "Արենի-1 («Թռչունների քարանձավ»)", ru: "Пещера Арени-1 «Пещера птиц»", en: "Areni-1 Cave (Birds Cave)" },
@@ -1347,7 +1347,7 @@ const toursData =[
           ru: "Древняя пещера, где была обнаружена старейшая в мире кожаная обувь и древнейшая винодельня.",
           en: "An ancient cave where the world's oldest leather shoe and earliest winery were discovered."
         },
-        photo: "/img/img_khor-virap-noravank-shaki-tatev_4.jpg"
+        photo: "./img/img_khor-virap-noravank-shaki-tatev_4.jpg"
       },
       {
         title: { hy: "Շաքիի ջրվեժ", ru: "Водопад Шаки", en: "Shaki Waterfall" },
@@ -1356,7 +1356,7 @@ const toursData =[
           ru: "Один из самых красивых и мощных водопадов Армении, скрытый в ущелье Сисиана.",
           en: "One of the most beautiful and powerful waterfalls in Armenia, hidden in the Sisian gorge."
         },
-        photo: "/img/img_khor-virap-noravank-shaki-tatev_5.jpg"
+        photo: "./img/img_khor-virap-noravank-shaki-tatev_5.jpg"
       },
       {
         title: { hy: "«Տաթևի թևեր» կանոնուղի", ru: "Канатная дорога «Крылья Татева»", en: "Wings of Tatev Cable Car" },
@@ -1365,7 +1365,7 @@ const toursData =[
           ru: "Самая длинная в мире пассажирская канатная дорога двойного реверсивного типа, проходящая над Воротанским ущельем.",
           en: "The world's longest reversible aerial tramway, flying over the breathtaking Vorotan Gorge."
         },
-        photo: "/img/img_khor-virap-noravank-shaki-tatev_6.jpg"
+        photo: "./img/img_khor-virap-noravank-shaki-tatev_6.jpg"
       },
       {
         title: { hy: "Տաթևի վանք", ru: "Монастырь Татев", en: "Tatev Monastery" },
@@ -1374,7 +1374,7 @@ const toursData =[
           ru: "Величественный монастырский комплекс IX века, бывший крупнейшим духовным и научным центром средневековой Армении.",
           en: "A majestic 9th-century monastery complex that served as a major spiritual and educational center of medieval Armenia."
         },
-        photo: "/img/img_khor-virap-noravank-shaki-tatev_7.jpg"
+        photo: "./img/img_khor-virap-noravank-shaki-tatev_7.jpg"
       }
     ]
 },
@@ -1384,7 +1384,7 @@ const toursData =[
     price: 30000,
     region: "Kotayk, Ararat",
     duration: 1,
-    image: "/img/img_garni-geghard-azat-symphony_1.jpg", 
+    image: "./img/img_garni-geghard-azat-symphony_1.jpg", 
     title: {
       hy: "Չարենցի կամար, Գառնի, Գեղարդ և Ազատի ջրամբար",
       ru: "Арка Чаренца, Гарни, Гегард и Азатское водохранилище",
@@ -1403,7 +1403,7 @@ const toursData =[
           ru: "Популярная смотровая площадка, откуда открывается один из самых потрясающих видов на библейскую гору Арарат.",
           en: "A popular viewpoint offering one of the most breathtaking panoramic views of Mount Ararat."
         },
-        photo: "/img/img_garni-geghard-azat-symphony_1.jpg"
+        photo: "./img/img_garni-geghard-azat-symphony_1.jpg"
       },
       {
         title: { hy: "Գառնիի տաճար", ru: "Храм Гарни", en: "Garni Temple" },
@@ -1412,7 +1412,7 @@ const toursData =[
           ru: "Единственный сохранившийся на территории Армении и всего СНГ языческий храм в эллинистическом стиле, построенный в I веке.",
           en: "The only surviving Hellenistic pagan temple in Armenia and the former Soviet Union, built in the 1st century."
         },
-        photo: "/img/img_garni-geghard-azat-symphony_2.jpg"
+        photo: "./img/img_garni-geghard-azat-symphony_2.jpg"
       },
       {
         title: { hy: "Քարերի սիմֆոնիա", ru: "Симфония камней", en: "Symphony of Stones" },
@@ -1421,7 +1421,7 @@ const toursData =[
           ru: "Уникальное природное образование из базальтовых колонн в ущелье реки Азат, напоминающее гигантский орган.",
           en: "A unique natural formation of basalt columns in the Azat River gorge, closely resembling a giant musical organ."
         },
-        photo: "/img/img_garni-geghard-azat-symphony_3.jpg"
+        photo: "./img/img_garni-geghard-azat-symphony_3.jpg"
       },
       {
         title: { hy: "Գեղարդավանք", ru: "Монастырь Гегард", en: "Geghard Monastery" },
@@ -1430,7 +1430,7 @@ const toursData =[
           ru: "Знаменитый средневековый монастырский комплекс, частично высеченный в скалах и включенный в список ЮНЕСКО.",
           en: "The famous medieval cave monastery complex, partially carved directly into the solid rock and listed by UNESCO."
         },
-        photo: "/img/img_garni-geghard-azat-symphony_4.jpg"
+        photo: "./img/img_garni-geghard-azat-symphony_4.jpg"
       },
       {
         title: { hy: "Ազատի ջրամբար", ru: "Азатское водохранилище", en: "Azat Reservoir" },
@@ -1439,7 +1439,7 @@ const toursData =[
           ru: "Живописное водохранилище, окруженное марсианскими горными пейзажами и создающее потрясающий контраст с водой.",
           en: "A picturesque reservoir surrounded by canyon landscapes, creating a stunning contrast with the blue water."
         },
-        photo: "/img/img_garni-geghard-azat-symphony_5.jpg"
+        photo: "./img/img_garni-geghard-azat-symphony_5.jpg"
       }
     ]
 },
@@ -1450,7 +1450,7 @@ const toursData =[
     price: 50000,
     region: "Kotayk, Gegharkunik",
     duration: 1,
-    image: "/img/img_garni-geghard-azat-symphony_1.jpg", 
+    image: "./img/img_garni-geghard-azat-symphony_1.jpg", 
     title: {
       hy: "Չարենցի կամար, Գառնի, Գեղարդ և Սևան",
       ru: "Арка Чаренца, Гарни, Гегард и Севан",
@@ -1469,7 +1469,7 @@ const toursData =[
           ru: "Смотровая площадка с великолепным панорамным видом на гору Арарат.",
           en: "A viewpoint with a magnificent panoramic view of Mount Ararat."
         },
-        photo: "/img/img_garni-geghard-azat-symphony_1.jpg"
+        photo: "./img/img_garni-geghard-azat-symphony_1.jpg"
       },
       {
         title: { hy: "Գառնիի տաճար", ru: "Храм Гарни", en: "Garni Temple" },
@@ -1478,7 +1478,7 @@ const toursData =[
           ru: "Единственный сохранившийся языческий храм Армении, построенный в I веке нашей эры.",
           en: "The only surviving pagan temple in Armenia, built in the 1st century AD."
         },
-        photo: "/img/img_garni-geghard-azat-symphony_2.jpg"
+        photo: "./img/img_garni-geghard-azat-symphony_2.jpg"
       },
       {
         title: { hy: "Քարերի սիմֆոնիա", ru: "Симфония камней", en: "Symphony of Stones" },
@@ -1487,7 +1487,7 @@ const toursData =[
           ru: "Уникальный природный памятник из базальтовых колонн, напоминающих трубы гигантского органа.",
           en: "A unique natural monument of basalt columns resembling the pipes of a giant organ."
         },
-        photo: "/img/img_garni-geghard-azat-symphony_3.jpg"
+        photo: "./img/img_garni-geghard-azat-symphony_3.jpg"
       },
       {
         title: { hy: "Գեղարդավանք", ru: "Монастырь Гегард", en: "Geghard Monastery" },
@@ -1496,7 +1496,7 @@ const toursData =[
           ru: "Выдающийся монастырский комплекс, частично высеченный в скале, включённый в список Всемирного наследия ЮНЕСКО.",
           en: "An outstanding monastery complex, partially carved into the rock, included in the UNESCO World Heritage list."
         },
-        photo: "/img/img_garni-geghard-azat-symphony_4.jpg"
+        photo: "./img/img_garni-geghard-azat-symphony_4.jpg"
       },
       {
         title: { hy: "Սևանա լիճ", ru: "Озеро Севан", en: "Lake Sevan" },
@@ -1505,7 +1505,7 @@ const toursData =[
           ru: "Крупнейшее высокогорное озеро Кавказа, которое называют жемчужиной Армении.",
           en: "The largest alpine lake in the Caucasus, often called the pearl of Armenia."
         },
-        photo: "/img/img_sevan-dilijan-haghartsin-parz_1.jpg"
+        photo: "./img/img_sevan-dilijan-haghartsin-parz_1.jpg"
       },
       {
         title: { hy: "Սևանավանք", ru: "Монастырь Севанаванк", en: "Sevanavank Monastery" },
@@ -1514,7 +1514,7 @@ const toursData =[
           ru: "Древний монастырь IX века, расположенный на полуострове Севан, откуда открывается великолепный вид на озеро.",
           en: "An ancient 9th-century monastery located on the Sevan peninsula, offering a magnificent view of the lake."
         },
-        photo: "/img/img_garni-geghard-sevanavank_6.jpg"
+        photo: "./img/img_garni-geghard-sevanavank_6.jpg"
       }
     ]
 },
