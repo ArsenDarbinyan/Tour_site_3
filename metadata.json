@@ -1,0 +1,6 @@
+{
+  "name": "Premium Armenia Tours",
+  "description": "An immersive, Awwwards-level premium multi-language tourism website for exploring the rich heritage, majestic mountains, and luxury hospitality of Armenia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
