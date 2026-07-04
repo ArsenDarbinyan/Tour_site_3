@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
   if (typeof ParticlesModule !== "undefined") {
     ParticlesModule.init();
   }
+  const toursData = window.toursData; 
 
   // State Management
   let activeFilterRegion = "All";
