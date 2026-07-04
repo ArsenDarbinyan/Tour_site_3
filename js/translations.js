@@ -1746,3 +1746,13 @@ function getStopsForTour(tourId, stopsKeys) {
 
 // Global active tour variable, initialized to first tour
 let activeTour = toursData[0];
+
+// Делаем данные и переменные доступными для всего сайта
+window.toursData = toursData;
+window.translations = translations;
+window.currentLang = currentLang;
+window.landmarksLibrary = landmarksLibrary;
+window.defaultLandmarkPhotos = defaultLandmarkPhotos;
+
+// Делаем функцию поиска остановок доступной для script.js
+window.getStopsForTour = getStopsForTour;
