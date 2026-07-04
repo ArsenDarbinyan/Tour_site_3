@@ -1599,6 +1599,8 @@ const toursData =[
   
 ];
 
+window.toursData = toursData; 
+
 // Landmark descriptions dictionary to feed route stops dynamically
 const landmarksLibrary = {
   Yerevan: {
