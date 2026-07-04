@@ -4,13 +4,19 @@
  * calculations, and immersive dynamic details timelines.
  */
 
+const toursData = window.toursData;
+const translations = window.translations;
+let currentLang = window.currentLang; // используем let, так как язык может переключаться
+const landmarksLibrary = window.landmarksLibrary;
+const defaultLandmarkPhotos = window.defaultLandmarkPhotos;
+const getStopsForTour = window.getStopsForTour;
+
 document.addEventListener("DOMContentLoaded", () => {
   // Initialize Particles Background
   if (typeof ParticlesModule !== "undefined") {
     ParticlesModule.init();
   }
-  const toursData = window.toursData; 
-
+ 
   // State Management
   let activeFilterRegion = "All";
   let activeFilterDuration = "All";
