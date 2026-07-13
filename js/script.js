@@ -70,36 +70,24 @@ window.generateBookingMessage = function() {
 window.handleBookingWhatsApp = function() {
     const message = generateBookingMessage();
     const encodedText = encodeURIComponent(message);
-    const whatsappNumber = "37498064617"; // Твой номер без плюса
+    const whatsappNumber = "37498064617"; // Номер в международном формате (без + и нулей впереди)
     
-    // Проверяем, зашел ли пользователь с мобильного (iOS/Android)
+    const waUrl = `https://api.whatsapp.com/send?phone=${whatsappNumber}&text=${encodedText}`;
+
     const isMobile = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
     
-    let waUrl;
-    if (isMobile) {
-        // Протокол whatsapp:// напрямую будит приложение на телефоне
-        waUrl = `whatsapp://send?phone=${whatsappNumber}&text=${encodedText}`;
-    } else {
-        // Стандартная ссылка для десктопных браузеров
-        waUrl = `https://wa.me/${whatsappNumber}?text=${encodedText}`;
-    }
-
-    // Открываем
     if (isMobile) {
         window.location.href = waUrl;
     } else {
         window.open(waUrl, '_blank');
     }
-} 
-
+}
 
 document.addEventListener("DOMContentLoaded", () => {
-  // Initialize Particles Background
   if (typeof ParticlesModule !== "undefined") {
     ParticlesModule.init();
   }
 
-  // State Management
   let activeFilterRegion = "All";
   let activeFilterDuration = "All";
   let activeFilterPrice = "All";
