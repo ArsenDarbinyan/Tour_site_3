@@ -70,7 +70,7 @@ window.generateBookingMessage = function() {
 window.handleBookingWhatsApp = function() {
     const message = generateBookingMessage();
     const encodedText = encodeURIComponent(message);
-    const whatsappNumber = "37498064617"; // Номер в международном формате (без + и нулей впереди)
+    const whatsappNumber = "37477064617"; // Номер в международном формате (без + и нулей впереди)
     
     const waUrl = `https://api.whatsapp.com/send?phone=${whatsappNumber}&text=${encodedText}`;
 
