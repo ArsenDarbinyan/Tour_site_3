@@ -845,6 +845,25 @@ document.addEventListener("DOMContentLoaded", () => {
   const teamContainer = document.getElementById("team-bento-container");
   const teamData = [
     {
+  "id": "Anushik",
+  "name": { 
+    "hy": "Անուշիկ Հարությունյան", 
+    "ru": "Анушик Арутюнян", 
+    "en": "Anushik Harutyunyan" 
+  },
+  "role": { 
+    "hy": "Հիմնադիր | Տուրերի կազմակերպիչ", 
+    "ru": "Основатель | Организатор туров", 
+    "en": "Founder | Tour Organizer" 
+  },
+  "funnyDesc": {
+    "hy": "Զբոսաշրջության ոլորտում ունի 5+ տարվա փորձ և անսասան հավատ, որ Հայաստանը կարելի է բացահայտել անվերջ: Նրա ֆինանսական կրթությունն օգնում է անթերի հաշվարկել տուրի յուրաքանչյուր դետալ, իսկ կազմակերպչական տաղանդի շնորհիվ ցանկացած ճամփորդություն վերածվում է Հայաստանի հոգու և պատմության անմոռանալի բացահայտման:",
+    "ru": "С опытом 5+ лет в туризме она искренне верит, что Армению можно открывать бесконечно. Финансовое образование помогает ей просчитывать туры до копейки, а организаторский талант гарантирует, что каждый гость без ума влюбится в историю, скрытые красоты и истинную душу этой загадочной страны.",
+    "en": "With 5+ years in tourism, she truly believes Armenia is a country to be discovered endlessly. Her background in finance helps her calculate every tour detail to perfection, while her organizing talent ensures that every guest falls deeply in love with the true beauty, history, and soul of this mysterious land."
+  },
+  "image": "./img1/founder_anushik.jpg"
+},
+    {
     id: "Marat",
     name: { hy: "Մարատ Հարությունյան", ru: "Марат Арутюнян", en: "Marat Harutyunyan" },
     role: { hy: "Վարորդ", ru: "Водитель", en: "Driver" },
