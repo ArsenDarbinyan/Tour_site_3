@@ -991,9 +991,9 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   const testimonialsContainer = document.getElementById("testimonials-container");
-  const reviewsData = [
+    const reviewsData = [
     {
-    name: "Aram Grigoryan",
+    name: "Armen Mardirosian",
     country: "Armenia, Yerevan",
     review: {
       hy: "Շատ շնորհակալություն Մարատին գերազանց սպասարկման համար: Մաքուր մեքենա, զգույշ վարում և հաճելի մթնոլորտ ճանապարհին: Անպայման կրկին կդիմենք:",
@@ -1015,7 +1015,7 @@ document.addEventListener("DOMContentLoaded", () => {
     avatar: "/img/man2.jpg"
   },
   {
-    name: "Anahit Avetisyan",
+    name: "Dallar Safikhanyan",
     country: "Armenia, Dilijan",
     review: {
       hy: "Անվտանգ վարում, հիանալի վերաբերմունք և բացառիկ սպասարկում: Շնորհակալություն, Մարատ, մեր ուղևորությունը հաճելի և առանց սթրեսի դարձնելու համար: Հինգ աստղ:",
@@ -1037,6 +1037,7 @@ document.addEventListener("DOMContentLoaded", () => {
     avatar: "/img/couple.jpg"
   }
   ];
+
 
   let currentReviewIdx = 0;
   let reviewTimer = null;
