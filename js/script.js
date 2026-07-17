@@ -853,19 +853,19 @@ document.addEventListener("DOMContentLoaded", () => {
       ru: "Водитель с опытом 10+ лет и отличным знанием дорог. Всегда при нем искрометный юмор и горький шоколад. Остановит машину при первом же намеке на укачивание, найдет таблетку от головы, а громкая музыка и бешеные ритмы никогда не отвлекут его от уверенного вождения.",
       en: "A driver with 10+ years of experience and excellent road knowledge. Always equipped with sweet humor and dark chocolate. Will pull over at the first sign of motion sickness, always has a headache pill ready, and loud music or intense rhythms will never distract him from smooth driving."
     },
-    image: "./img/driver_0.jpg" 
+    image: "./img/driver_1.jpg" 
   },
-  // {
-  //   id: "Arthur",
-  //   name: { hy: "Արթուր Հովհաննիսյան", ru: "Артур Оганесян", en: "Arthur Hovhannisyan" },
-  //   role: { hy: "Վարորդ", ru: "Водитель", en: "Driver" },
-  //   funnyDesc: {
-  //     hy: "Ավելի քան 10 տարվա փորձով պատասխանատու և անվտանգ վարորդ: Ծայրահեղ կոկիկ է և սիրում է կատարյալ հարմարավետություն. միակ բանը, որ կարող է իրոք բարկացնել նրան՝ շոգն ու քրտնելն է:",
-  //     ru: "Ответственный и безопасный водитель с опытом более 10 лет. Невероятно опрятен и ценит идеальный комфорт: единственное, что может по-настоящему его разозлить — это жара и духота.",
-  //     en: "A responsible and safe driver with over 10 years of experience. Extremely neat and loves perfect comfort: the only thing that can truly annoy him is the heat and getting sweaty."
-  //   },
-  //   image: "/img/driver_1.jpg" 
-  // }
+  {
+    id: "Arthur",
+    name: { hy: "Արթուր Հովհաննիսյան", ru: "Артур Оганесян", en: "Arthur Hovhannisyan" },
+    role: { hy: "Վարորդ", ru: "Водитель", en: "Driver" },
+    funnyDesc: {
+      hy: "Ավելի քան 10 տարվա փորձով պատասխանատու և անվտանգ վարորդ: Ծայրահեղ կոկիկ է և սիրում է կատարյալ հարմարավետություն. միակ բանը, որ կարող է իրոք բարկացնել նրան՝ շոգն ու քրտնելն է:",
+      ru: "Ответственный и безопасный водитель с опытом более 10 лет. Невероятно опрятен и ценит идеальный комфорт: единственное, что может по-настоящему его разозлить — это жара и духота.",
+      en: "A responsible and safe driver with over 10 years of experience. Extremely neat and loves perfect comfort: the only thing that can truly annoy him is the heat and getting sweaty."
+    },
+    image: "/img/driver_0.jpg" 
+  }
 
   ];
 
