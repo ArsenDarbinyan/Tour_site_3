@@ -1004,7 +1004,7 @@ document.addEventListener("DOMContentLoaded", () => {
     avatar: "/img/man1.jpg"
   },
   {
-    name: "Karen Sargsyan",
+    name: "David",
     country: "Armenia, Gyumri",
     review: {
       hy: "Մարատի հետ ճանապարհին քեզ հանգիստ ու վստահ ես զգում: Ամեն ինչ կազմակերպված էր բարձր մակարդակով: Շնորհակալություն:",
@@ -1026,7 +1026,7 @@ document.addEventListener("DOMContentLoaded", () => {
     avatar: "/img/woman1.jpg"
   },
   {
-    name: "Hayk & Elen",
+    name: "Lilith",
     country: "Armenia, Goris",
     review: {
       hy: "Արթուրը մեր ճանապարհորդությունը առավելագույնս հարմարավետ դարձրեց։ Իր գործի իսկական պրոֆեսիոնալ։ Միանշանակ խորհուրդ ենք տալիս: Հիանալի փորձ ունեցանք, մաքուր մեքենա և բարձրակարգ սպասարկում: Շատ քաղավարի ու փորձառու վարորդ է:",
@@ -1034,8 +1034,30 @@ document.addEventListener("DOMContentLoaded", () => {
       en: "Arthur made our trip as comfortable as possible. A true professional. Highly recommended! We had a wonderful experience: clean vehicle, safe driving, and outstanding customer service. Very polite and experienced driver."
     },
     stars: 5,
-    avatar: "/img/couple.jpg"
-  }
+    avatar: "/img1/lilit.jpg"
+  },
+  {
+  "name": "Emi",
+  "country": "Germany, Berlin",
+  "review": {
+    "hy": "Անմոռանալի ճամփորդություն էր: Մարատը ոչ միայն հիանալի վարորդ է, այլև շատ հետաքրքիր պատմող: Շատ շնորհակալ ենք ջերմ ընդունելության համար:",
+    "ru": "Это было незабываемое путешествие! Марат не только отличный водитель, но и очень интересный рассказчик. Спасибо большое за теплый прием!",
+    "en": "It was an unforgettable trip! Marat is not only a great driver but also a very interesting storyteller. Thank you so much for the warm welcome!"
+  },
+  "stars": 5,
+  "avatar": "/img1/Emi.jpg"
+},
+{
+  "name": "Erik",
+  "country": "USA, Los Angeles",
+  "review": {
+    "hy": "Բացարձակ պրոֆեսիոնալիզմ: Մեքենան մաքուր էր, ընթացքը՝ անվտանգ, իսկ Մարատը շատ ուշադիր էր մեր բոլոր խնդրանքների հանդեպ: Խորհուրդ եմ տալիս բոլորին:",
+    "ru": "Абсолютный профессионализм! Машина чистая, вождение безопасное, а Марат был очень внимателен ко всем нашим просьбам. Рекомендую всем!",
+    "en": "Absolute professionalism! The car was clean, the drive was safe, and Marat was very attentive to all our requests. Highly recommend to everyone!"
+  },
+  "stars": 5,
+  "avatar": "/img1/Erik.jpg"
+}
   ];
 
 
