@@ -1028,7 +1028,7 @@ const toursData =[
       {
         title: { hy: "Ծաղկաձորի Ճոպանուղի", ru: "Горная канатная дорога", en: "Tsaghkadzor Ropeway Ride" },
         desc: {
-          hy: "Թռիչք դեպի Թեժենիս լեռան լանջեր, որտեղից բացվում է հիասքանչ տեսարան դեպի ողջ հովիտը:",
+          hy: "Թռիչք դեպի Թեղենիս լեռան լանջեր, որտեղից բացվում է հիասքանչ տեսարան դեպի ողջ հովիտը:",
           ru: "Подъем на современных открытых подъемниках на гору Тегенис с панорамами на кавказские хребты.",
           en: "An alpine ride up Mount Teghenis, revealing endless scenic horizons across the Armenian highlands."
         },
