@@ -586,7 +586,7 @@ document.addEventListener("DOMContentLoaded", () => {
         </div>
         <div>
           <h4 class="timeline-title font-display font-medium transition-colors text-sm">${stop.title[currentLang]}</h4>
-          <p class="text-xs text-gray-400 mt-1 line-clamp-1">${stop.desc[currentLang]}</p>
+          <p class="text-xs text-gray-400 mt-1 line-clamp-2">${stop.desc[currentLang]}</p>
         </div>
       `;
 
