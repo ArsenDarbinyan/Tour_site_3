@@ -791,7 +791,7 @@ document.addEventListener("DOMContentLoaded", () => {
     } else {
       let totalPrice = finalPricePerPerson;// * peopleCount;
       if (hasGuide) {
-        totalPrice += 20000;
+        totalPrice += 0;
       }
       const displayedPricePerPerson = finalPricePerPerson;
 
